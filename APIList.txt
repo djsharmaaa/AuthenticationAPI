@@ -1,0 +1,3 @@
+UserController
+1. Signup - Email, Name, Password, Mobile number(try later )
+2.SignIn - Email, password
